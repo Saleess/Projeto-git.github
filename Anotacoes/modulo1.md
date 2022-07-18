@@ -109,3 +109,34 @@ Saída - Consiste na impressão dos dados do mundo abstrato digital por meio da 
 
 Existem dois tipos de saída-  Saída programada pode ser condicional quando aguarda o dispositivo para executar a saída dos valores e por interrupção definida pelos periféricos através de um erro de execução
 
+## Linguagem de programação
+
+Historia da computação
+
+Programa é um amontado de palavras senão for possível que o computador entenda.
+
+Programa fonte é mandado para o compilador que executa a analise do programa transforma em programa objeto e resulta em linguagem de maquina.
+
+Na tradução é gerado o programa objeto para a execução do programa(Java, C++)
+
+Já na interpretação o programa fonte é executado diretamente(Java Script, Ruby, Python)
+
+Características de um programa- Legibilidade, redigibilidade, confiabilidade, custo
+
+### Analise de um código 
+
+Léxica - Faz leitura do programa fonte e agrupa em lexemas. Particionar- tokens, classificar- identificadores, strings, entre outros e eliminar espaços em brancos e comentários.
+
+Sintática -  Interliga os constituintes da sentença atribuindo-lhe uma estrutura
+
+Semântica - Incide sobre a relação entre os significados
+
+## Paradigmas  
+
+Forma de resolução de problemas com diretrizes e limitações especificas de cada paradigma utilizando linguagem de programação
+
+Estruturado - Ênfase de sequência
+
+Orientação à objeto - Paradigma de programação baseado na utilização de objetos e suas interações - Análogo ao mundo real.
+
+Herança, Encapsulamento, Polimorfismo, abstração
