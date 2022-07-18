@@ -1,7 +1,6 @@
 # Modulo 1
 
 
-
 ### Pensamento computacional
 
 Pensamento computacional processo de pensamento envolvido na expressão de solução em passos computacionais ou algoritmos que podem ser implementados no computador. 
@@ -9,11 +8,104 @@ Pensamento computacional processo de pensamento envolvido na expressão de solu�
 - __Sistemático e eficiente__
 
   -  Formulação e resolução de problemas - o ser humano e o computador são capaz de resolver.
-
--  Os 4 pilares 
+-  __Os 4 pilares__ 
 
   - __Decomposição__- pega o problema e dividir encontrar problemas menores e resolvíeis
   - __Reconhecimento de padrões__- identificar similaridades e tendência dentro de um contexto ou contexto distinto 
   - __Designer do algoritmo__- _automatizar_- definir passo a passo a solução do problema
+- __Abstração__- extrapolar um conceito de algum problema para uma forma generalista- mundo completo e mundo das ideias 
 
-  - __Abstração__- extrapolar um conceito de algum problema para uma forma generalista- mundo completo e mundo das ideias 
+## Introdução a Lógica de Programação
+
+Lógica é a parte da filosofia que trata das formas do pensamento em geral e das operações intelectuais que visam a determinação do que é verdadeiro ou não
+
+### Técnicas da lógica
+
+- Técnica linear: Modelo tradicional, não tem vínculo, estrutura hierárquica, programação de computadores, execução sequencial, recursos limitados e única dimensão.
+- Técnica estruturada: A organização disposição é ordem dos elementos essenciais que compõem o corpo.
+- Técnica modular: controlado por regras.
+
+Dados de entrada → Processo de transformação → Dados de saída 
+
+## Fundamentos de algoritmo
+
+### __Tipologia e variável __
+
+A função do computador é processar as informações compostas por dados puros e instruções, normativas para executar determinadas ações e por fim esses dados são tratados e processados.
+
+#### **Tipos de dados:**
+
+Numéricos - Inteiros e Reais _(int , float)_
+
+Caracteres - Tudo não representado por número ("") seria _String_
+
+Lógico/booleano - V(1) ou F(0), no português estruturado são acompanhados de um ponto no antes.
+
+#####  Variável
+
+É um tipo de estrutura mutável inconstante que pode assumir qualquer valor de um determinado conjunto de valores.
+
+Nome da variável - atribuição de um ou mais caracteres, sem espaços em branco,vetado a utilização de palavras reservada.
+
+Ou vai ser de ação modificando o estado de algoritmo e controle utilizado para controle de alguma estrutura ou equação.
+
+Constante- tudo que é fixo ou estável.
+
+Objetivo- com os dados tratados e processados as instruções são as operações que processam os dados.
+
+As operações normalmente são cálculos matemáticos com variáveis e constantes e operadores podem ser binário e unário.
+
+### Instruções primitivas
+
+Linguagem de vocabulário de uma determinada programação que tem por finalidade comandar um computador que irá tratar dos dados.
+
+Notação está relacionada aos operadores.
+
+Entrada processamento e saída dos dados- importados de um lugar como diretório, levado ao ambiente computacional para serem processados para serem imprimidos 
+
+### Estrutura condicional
+
+Condição é o estado de uma pessoa os uma coisa
+
+Condicional expressa uma condição ou suposição, ele contem ou implica com uma suposição ou hipótese.
+
+Condicional simples- com apenas uma resolução, exemplo se a resposta da condição for Verdadeira ela vai ser imprimida, se não apenas encerrada
+
+Condicional composta- Resolução da operação e Impressão para o verdadeiro e o falso
+
+Condicional encadeado- Sucessão de condicionais 
+
+#### Operadores lógicos 
+
+Resposta simplificada como V e F
+
+- AND - Se tiver uma condição falso o resultado é falso 
+- OR - Se uma condição for verdadeiro o resultado é verdadeiro
+- NOT - Inversão do resultado logico é o resultado da operação
+
+## Estrutura de repetição
+
+- Laços, controle de fluxo, malhas de repetição, loop
+
+Condição de parada- numero de repetição pré-fixada ou condição satisfeita
+
+## Vetores e matrizes
+
+Vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado; Matriz é uma tabela organizada por linha e coluna, M x N onde m representa linhas e N colunas
+
+- Numéricos: Inteiros e reais
+
+## Funções 
+
+As funções são blocos de instruções que realizam tarefas especificas, identificados por nomes e parâmetros.
+
+Semelhante ao conceito de funções na matematica onde F = a →b
+
+## Instruções de entrada e Saída 
+
+Entrada - Consiste na inserção e recebimento de dados do mundo real por meio da ação de alguma interface, seja teclado, Mouse, arquivos, entre outros 
+
+Saída - Consiste na impressão dos dados do mundo abstrato digital por meio da ação de alguma interface. Os formatos podem variar desde simples arquivos binários até complexas querys de bancos de dados 
+
+Existem dois tipos de saída-  Saída programada pode ser condicional quando aguarda o dispositivo para executar a saída dos valores e por interrupção definida pelos periféricos através de um erro de execução
+
