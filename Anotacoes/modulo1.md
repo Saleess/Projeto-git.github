@@ -140,3 +140,47 @@ Estruturado - Ênfase de sequência
 Orientação à objeto - Paradigma de programação baseado na utilização de objetos e suas interações - Análogo ao mundo real.
 
 Herança, Encapsulamento, Polimorfismo, abstração
+
+Portugol- Pratica
+
+## Git e github
+
+O git é um software desenvolvido em 2005, por Linus Torvalds, para a construção de projetos, como sites, códigos ou softwares, onde vários desenvolvedores podem trabalhar ao mesmo tempo, de maneira rápida, inteligente e eficiente.
+
+A funcionalidade que se destaca no git é o seu sistema de controle de alterações. Quando alguém muda o código, por exemplo, é gerada uma nova versão do projeto, sem ter o risco de perder qualquer informação. Todas essas versões são salvas em um repositório, sobre o qual explicaremos com mais detalhes, ainda neste artigo.
+
+Mesmo o trabalho eficiente em equipe sendo a maior característica do software, muitos desenvolvedores também o utilizam para fins individuais, pelo fato de oferecer diversos recursos que permitem a construção de ótimos projetos.
+
+### Comandos básicos
+
+Windows
+
+CD - entrar na pasta 
+
+DIR - Listar (ls-linux)
+
+MKDIR - Criar pasta
+
+CD .. - voltar
+
+Echo - criar arquivo
+
+del - deletar arquivo
+
+rmdir - deletar pasta (rm-rf em Linux)
+
+Para instalar git no linux usar comando e no MAC usar gerenciador de pacote como o Homebrew.
+
+#### Objetos internos
+
+- Blobs- Tipo, tamanho,/0 e conteudo 
+-  Trees - Armazena blobs -  tamanho,/0, blobs, sha1, nome_arquivo- estrutura onde está o arquivo
+-   Commits - Arvore, parente, autor, mensagem, sha1, temstamp - O sha1 deste commit é o hash de toda informação
+
+### Chave SSH e Token
+
+12 de agosto - autenticação por nome e datas foram desativadas
+
+SSH é um protocolo que permite a conexão com servidores remotos, de forma criptografada e mais segura, usando um par de chaves RSA -  As SSH Keys funcionam no modo chave pública e privada (sempre em pares), onde a conexão SFTP/SSH só é autorizada se a chave privada do usuário do computador cliente bater com a chave pública do usuário do servidor
+
+ O token é um certificado digital, fornecido por um dispositivo físico que gera uma senha temporária para que o usuário possa realizar movimentações financeiras com maior segurança e tranquilidade.
